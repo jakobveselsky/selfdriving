@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/selfdriving/PCstream/img/selfdriving/selfdriving/devel -DCMAKE_INSTALL_PREFIX=/home/selfdriving/PCstream/img/selfdriving/selfdriving/install -G Unix Makefiles
